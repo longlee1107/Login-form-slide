@@ -155,9 +155,7 @@ button.ghost {
 }
 
 .overlay {
-    background: #FF416C;
-    background: -webkit-linear-gradient(to right, rgb(71, 171, 255), rgb(0, 140, 255));
-    background: linear-gradient(to right, rgb(71, 171, 252), rgb(0, 140, 255));
+    background: url(./img/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 0 0;
